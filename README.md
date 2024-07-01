@@ -11,4 +11,4 @@ I will also think of other ways to do this.
 ### Resources used
 
 * [hugo](https://github.com/gohugoio/hugo)
-
+* [PaperMod](https://github.com/adityatelange/hugo-PaperMod)
